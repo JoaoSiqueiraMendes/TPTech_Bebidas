@@ -1,0 +1,10 @@
+debug/storeImpl.o
+debug/kitImpl.o
+debug/functional_tests.o
+debug/main_functional_test.o
+debug/main_unit_test.o
+debug/unit_cattle.o
+debug/unit_farm.o
+debug/unit_test.o
+debug/unit_transaction.o
+debug/unit_user.o

@@ -1,0 +1,10 @@
+release/storeImpl.o
+release/kitImpl.o
+release/functional_tests.o
+release/main_functional_test.o
+release/main_unit_test.o
+release/unit_cattle.o
+release/unit_farm.o
+release/unit_test.o
+release/unit_transaction.o
+release/unit_user.o
